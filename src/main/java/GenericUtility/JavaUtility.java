@@ -40,6 +40,9 @@ public class JavaUtility {
 		
 		
 	}
-	
+	private void Sysout() {
+		System.out.println("Hello World");
+
+	}
 	
 }
